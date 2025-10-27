@@ -9,7 +9,7 @@ on:
       - 'WebApi/**'
       - 'CdkDeploy/**'
     branches:
-      - main
+      - master
     
 jobs:
   deploy:
