@@ -1,0 +1,24 @@
+
+# Build artifacts
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio files
+.vs/
+.vscode/
+
+# AWS CDK
+cdk.out/
+
+# Logs
+*.log
+
+# Others
+*.DS_Store
+*.env
